@@ -9,7 +9,7 @@ Some tips to push your code in this repository;
   * OR you can comment your name inside the code!
 * Some commenting inside your code will help others a lot. However, you can push code without comments as well. 
 
-> Happy Codinng !!
+> Happy Codinng !!.
 > Please make pull request to master branch if you are creating your own branch!
   
 
